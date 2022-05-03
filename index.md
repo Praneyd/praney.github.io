@@ -1,5 +1,7 @@
 ## Praneydeep Rastogi
 
+I did my Ph.D.in Power Electronics from University of Victoria in 2022 and  my  masters (M.Tech.) in Power Electronics and Drives from Vellore Intsitute of Technology  (VIT) University in 2015. My area of research is soft switching resonant dc-dc convertes (such as LCL/LLC, LCL-T) which are  used  for renewable energy sources and energy storage devices applications, intgeration of renewable energy sources and energy storage devices through power converterin dc microgrid, AC/DC rectification.           
+
 
 
 You can use the [editor on GitHub](https://github.com/Praneyd/praney.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
